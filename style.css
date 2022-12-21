@@ -32,7 +32,7 @@ h1{
     align-items: center;
     justify-content: space-around;
     height: 200px;
-    width: 550px;
+    width: 50%;
     background: tranparent;
     border-radius: 20px;
     box-shadow: 0px 9px 16px rgba(102, 205, 170, 1);
@@ -45,7 +45,6 @@ h1{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    //Color: #0081fd;
     color: #102a4e;
     background: rgba( 72, 209, 204, 1);
     box-shadow: 2px 3px 5px rgba(175, 238, 238, 1);
@@ -55,7 +54,7 @@ h1{
 
 .relogio span{
     font-weight: bolder;
-    font-size: 65px;
+    font-size: 50px;
 
 }
 
